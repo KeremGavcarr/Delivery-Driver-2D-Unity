@@ -1,6 +1,6 @@
 Hello Everyone,
 
-In this project I work on 2D Car Game which you can be able to collect packages on roads and deliver them to customers. 
-It's still in progress project. I hope you will enjoy the game.
+In this project I work on 2D Car Game which you can be able to collect packages on roads and deliver them to customer. 
+It's completed project. Might be apply a few patches in the future such as level design. I hope you will enjoy the game.
 
 Kerem Gavcar
