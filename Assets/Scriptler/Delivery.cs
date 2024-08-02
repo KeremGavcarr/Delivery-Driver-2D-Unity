@@ -17,6 +17,7 @@ public class Delivery : MonoBehaviour
         {
             Debug.Log("Package picked up!");
             hasPackage = true;
+            
         }   
         if (collision.tag == "Customer" && hasPackage)
         {
