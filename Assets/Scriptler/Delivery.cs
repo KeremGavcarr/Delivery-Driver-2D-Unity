@@ -9,6 +9,8 @@ public class Delivery : MonoBehaviour
     
     [SerializeField] Color32 noPackageColor = new Color32(1,1,1,1);
 
+
+
     SpriteRenderer spriteRenderer;
     void Start()
     {
